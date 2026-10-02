@@ -79,7 +79,7 @@ export default function Footer() {
                   Books
                 </Link>
               </li>
-              <li>
+              <li>  
                 <Link
                   href="/aboutUs"
                   className="transition hover:text-foreground"
